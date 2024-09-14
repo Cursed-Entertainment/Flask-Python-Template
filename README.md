@@ -7,8 +7,9 @@
 </a>
 
 <h1>Flask-Python-Template</h1>
-
-    <br>
+<div align="center">
+© Cursed Entertainment 2024
+</div>
 <div align="center">
 <a href="https://github.com/CursedPrograms" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
