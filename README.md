@@ -18,8 +18,35 @@
 </a>
 
 <h1>Flask-Python-Template</h1>
+<br>
+
+## How to Run:
+```bash
+pip install -r requirements.txt
+```
+  <br>
+
+```bash
+python main.py
+```
+  <br>
+
+To make the setup script executable, run the following command in your terminal:
+
+```bash
+chmod +x setup.sh
+```
+
+  <br>
+
+## Requirements:
+
+```bash
+flask
+```
+
 <div align="center">
-© Cursed Entertainment 2024
+© Cursed Entertainment 202*
 </div>
 <div align="center">
 <a href="https://github.com/CursedPrograms" target="_blank">
