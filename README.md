@@ -29,16 +29,13 @@ Using Python directly:
 ```bash
 pip install -r requirements.txt
 ```
+Or run: 
+- `install_requirements.bat`
 
-Or run 
-
-```bash
-.\install_requirements.bat
-```
+  
   <br>
 
 ### Run main.py
-
 
 Using Python directly:
 
@@ -49,17 +46,11 @@ python main.py
 Using provided scripts:
 
 Windows:
-```bash
-.\run.bat
-```
+- `.\run.bat`
 or
-```bash
-.\run.ps1
-```
+- `.\run.ps1`
 Unix-like systems (Linux/macOS):
-```bash
-bashCopy./run.sh
-```
+- `.\run.sh`
 
   <br>
 
